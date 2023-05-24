@@ -1,0 +1,83 @@
+☎ ️Tentei me comunicar por ligação, mas acabei não conseguindo.
+
+Sou a Amanda, responsável pelo atendimento da empresa POLOZI. 
+Antes de eu te contar o porquê dessa mensagem... *Salva o meu número de telefone* para eu dar prioridade no seu atendimento!?
+
+Por esses dias, você visualizou nossos anúncios em suas redes sociais e realizou a sua inscrição para a nossa *PALESTRA GRATUITA DE INTELIGENCIA EMOCIONAL* na cidade:
+
+📌 *{city_split.upper()} QUE ACONTECERÁ NO DIA {day_month}*
+
+Sua inscrição está confirmada, porém como o número de pessoas é limitado, preciso *CONFIRMAR A SUA PRESENÇA* para *GARANTIR* a sua vaga.
+
+🗓️ DATA DO EVENTO: *{day_month} {week_day}*
+⏰ Horário de credenciamento: 18:20 ÀS 18:55. | *Horário de Início: 19h00.*
+
+Local: *{place}*
+📍 Endereço: {address}
+Cidade: {city}
+Ponto de referência: {landmark}
+
+*ENTRADA:* 1kg de alimento não perecível OU 1Lt de leite!
+
+😱 *E mais…*
+
+Se você conhece alguém que está buscando crescer em todas as áreas da vida, convide-a para receber essa transformação também. Me manda o *nome e sobrenome* por aqui que eu faço o cadastro rapidinho! 😉
+
+🚫 *É proibido a entrada de MENORES DE 12 ANOS!*
+
++-+
+
+☎ ️Tentei mas não consegui falar com você por telefone...
+
+Meu nome é Amanda e sou responsável pelo atendimento da POLOZI.
+Você pode *salvar o meu número* para facilitar o seu atendimento no futuro?
+
+Por esses dias, você visualizou nossos anúncios em suas redes sociais e realizou a sua inscrição para a nossa *PALESTRA GRATUITA DE INTELIGENCIA EMOCIONAL* na cidade:
+
+📌 *{city_split.upper()} QUE ACONTECERÁ NO DIA {day_month}*
+
+Sua inscrição foi confirmada, mas devido ao número limitado de participantes, preciso que você *confirme sua presença para garantir a sua vaga.*
+
+🗓️ DATA DO EVENTO: *{day_month} {week_day}*
+⏰ Horário de credenciamento: 18:20 às 18:55. | Horário de início: 19h00.
+
+📍 Local: *{place}*
+Endereço: {address}
+Cidade: {city}
+🔎 Ponto de referência: {landmark}
+
+*ENTRADA:* 1kg de alimento não perecível OU 1Lt de leite!
+
+🗣 ️ Conhece alguém que precisa se beneficiar dessa palestra sobre desenvolvimento pessoal e financeiro?
+Convide essa pessoa para também buscar transformação. Me manda o *nome e sobrenome* que eu faço o cadastro rapidinho! 😊
+
+🚫 Lembrando que a entrada de *menores de 12 anos* não é permitida no evento!
+
++-+
+
+☎ ️Infelizmente, não consegui falar com você por telefone...
+
+Sou Amanda, do atendimento da POLOZI. 
+Gostaria de saber se você pode *salvar o meu número* para facilitar o seu atendimento da próxima vez?
+
+Por esses dias, você visualizou nossos anúncios em suas redes sociais e realizou a sua inscrição para a nossa *PALESTRA GRATUITA DE INTELIGENCIA EMOCIONAL* na cidade:     
+
+📌 *{city_split.upper()} QUE ACONTECERÁ NO DIA {day_month}*
+
+Sua inscrição está confirmada, mas para garantir a sua vaga, preciso que você *confirme sua presença*, pois o número de participantes é limitado.
+
+🗓️ DATA DO EVENTO: *{day_month} {week_day}*
+⏰ Horário de credenciamento: 18:20 às 18:55. | *Horário de início: 19h00.*
+
+📍 Local: *{place}*
+Endereço: {address}
+Cidade: {city}
+🔎 Ponto de referência: {landmark}
+
+*ENTRADA:* 1kg de alimento não perecível OU 1Lt de leite!
+
+🗣️ *E mais…*
+
+Se você acredita que essa palestra pode ajudar alguém prosperar em sua vida pessoal e financeira, convide essa pessoa para participar e também transformar a sua vida! Me envia o *nome e sobrenome* que realizo rapidinho o cadastro. 😉
+
+🚫 Lembrando que *menores de 12 anos* não são permitidos no evento!
